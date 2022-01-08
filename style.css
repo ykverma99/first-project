@@ -7,7 +7,7 @@
     display: flex;
     flex-direction: column;
     height: 100vh;
-    background-image: url(./main.jpg);
+    background-image: url(./images/main.jpg);
     /* filter: blur(4px); */
     width: 100%;
     background-size: cover;
